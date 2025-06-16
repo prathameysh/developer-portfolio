@@ -18,23 +18,6 @@ A clean, modern, and responsive developer portfolio built with React, Vite, and 
 - **Tailwind CSS** - Utility-first CSS framework
 - **Lucide React** - Beautiful icons
 
-## 📁 Project Structure
-
-\`\`\`
-frontend/
-├── public/assets/          # Images, icons, logos
-├── src/
-│   ├── App.js             # Main app component
-│   ├── index.js           # React DOM render
-│   ├── index.css          # Global styles
-│   ├── config/user.js     # Personal data configuration
-│   ├── components/        # Reusable components
-│   ├── sections/          # Page sections
-│   └── utils/             # Utility functions
-├── tailwind.config.js     # Tailwind configuration
-└── package.json
-\`\`\`
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
@@ -78,14 +61,13 @@ frontend/
 ## 🎨 Customization Guide
 
 ### Colors
+
 Edit the color scheme in `tailwind.config.js` and `src/index.css`
 
 ### Content
+
 All personal data is centralized in `src/config/user.js`
 
 ### Layout
+
 Modify components in `src/components/` and sections in `src/sections/`
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
