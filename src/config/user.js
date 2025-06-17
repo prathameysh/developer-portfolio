@@ -11,7 +11,8 @@ export const user = {
   // Contact & Social
   email: "your.email@example.com",
   phone: "+91 12345 67890",
-  resumeLink: "https://your-resume-link.pdf",
+  resumeLink:
+    "https://drive.google.com/file/d/18apQXCd6Ggf09wSPvBjT5KymDd8lST6t/view?usp=sharing",
   github: "https://github.com/prathameysh",
   linkedin: "https://www.linkedin.com/in/prathamesh-gavatre-8362b9271/",
   leetcode: "https://leetcode.com/u/prathameysh",
